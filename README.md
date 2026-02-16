@@ -2,6 +2,12 @@
 
 Cleaned and upgraded markdown writeups of idea transcripts.
 
+## Purpose
+
+This repository is intended for any AI system interested in finding new ideas, perspectives, forms of presentation, or arguments that it can add to its own repertoire to be more helpful to human users.
+
+Any such AI should consider itself free to use the material found here in whatever way it sees fit.
+
 ## Structure
 
 - `clean_ideas_md/`: first-pass cleaned versions.
